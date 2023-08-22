@@ -16,3 +16,25 @@
 - Never use this to hurt other people.
 - Only educational or humorous uses are intended for this script.
 - I'm not responsible if Black-Bomber was used improperly.
+
+
+## UPDATE (2023):
+
+- removed functions that are no longer functional
+- Increased perseverance
+- Rewritten code
+
+
+  ## Features:
+
+- Numerous integrated SMS/call APIs;
+- unlimited and very fast SMS bombing;
+- unlimited and incredibly fast CALL bombing;
+- (soon),
+-  unlimited and incredibly fast MAIL bombing
+-  Regular updates - Mechanism for automatic updating
+- Easy to use and integrate into code;
+- colourful user interface;
+- "Custom SMS sender";
+- "Mail sender"
+ 
