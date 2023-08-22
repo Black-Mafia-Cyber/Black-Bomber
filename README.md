@@ -1,2 +1,3 @@
 # Black-Bomber
-Black-Bomber is python based online tool which can help you to prank your friends. By using this tool you can send huge amount of sms , call and email to your friends.
+<h1 align="center">Black-Bomber</h1>
+<p align="center">An open-source SMS/call/Mail/Anonymous SMS and Eamil bomber for Linux And Termux.</p><br>
