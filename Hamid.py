@@ -178,7 +178,7 @@ def pretty_print(cc,target,success,failed):
     mesgdcrt.GeneralMessage("Successful   : " + str(success))
     mesgdcrt.GeneralMessage("Failed       : " + str(failed))
     mesgdcrt.WarningMessage("This tool was made for fun and research purposes only")
-    mesgdcrt.SuccessMessage("Master-Bomber is created by the Jatin Kalwar")
+    mesgdcrt.SuccessMessage("Black-Bomber is created by the Hamid Hussain")
 def workernode(mode,cc,target,count,delay,max_threads):
 
     api = APIProvider(cc,target,mode,delay=delay)
@@ -281,14 +281,14 @@ mesgdcrt = MessageDecorator("icon")
 __VERSION__ = get_version()
 ALL_COLORS = [Fore.GREEN, Fore.RED, Fore.YELLOW, Fore.BLUE, Fore.MAGENTA, Fore.CYAN, Fore.WHITE]
 RESET_ALL = Style.RESET_ALL
-description="""Master-Bomber [The Ultimate Bomber]
-The uses of Master-Bomber - 
+description="""Black-Bomber [The Ultimate Bomber]
+The uses of Black-Bomber - 
 \t Exposing the vulnerable APIs over Internet
 \t Testing Your Spam Detector 
 \t Friendly SMS Spamming
 \t Friendly Mail Spamming
 \t Anonymous SMS/Mailing
-Master Bomber is not intented for malicious uses.
+Black Bomber is not intented for malicious uses.
 """
 parser = argparse.ArgumentParser(description=description,epilog='Coded by SpeedX !!!')
 parser.add_argument("-sms","--sms", action="store_true",help="Sms Bomber")
