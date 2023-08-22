@@ -25,16 +25,16 @@
 - Rewritten code
 
 
-  ## Features:
+## Features:
 
-- Numerous integrated SMS/call APIs;
-- unlimited and very fast SMS bombing;
-- unlimited and incredibly fast CALL bombing;
-- (soon),
--  unlimited and incredibly fast MAIL bombing
--  Regular updates - Mechanism for automatic updating
-- Easy to use and integrate into code;
-- colourful user interface;
-- "Custom SMS sender";
-- "Mail sender"
+- Numerous integrated SMS/call APIs
+- unlimited and very fast SMS bombing
+- unlimited and incredibly fast CALL bombing
+- (soon)
+- unlimited and incredibly fast MAIL bombing
+- Regular updates - Mechanism for automatic updating
+- Easy to use and integrate into code
+- colourful user interface
+- Custom SMS sender
+- Mail sender
  
