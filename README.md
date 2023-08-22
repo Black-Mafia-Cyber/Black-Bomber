@@ -22,7 +22,7 @@
 
 - removed functions that are no longer functional
 - Increased perseverance
-- Rewritten code
+- Rewritten code
 
 
 ## Features:
@@ -32,7 +32,8 @@
 - unlimited and incredibly fast CALL bombing
 - (soon)
 - unlimited and incredibly fast MAIL bombing
-- Regular updates - Mechanism for automatic updating
+- Regular updates
+- Mechanism for automatic updating
 - Easy to use and integrate into code
 - colourful user interface
 - Custom SMS sender
